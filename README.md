@@ -1,5 +1,5 @@
-# machine-learning-project
-* Text regression: It is same like regression here the independent variable in text and the response variable in numeric or text
+# Text regression: 
+* It is same like regression here the independent variable in text and the response variable in numeric or text
 ***
 
 # Problem statement: 

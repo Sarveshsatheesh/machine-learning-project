@@ -1,0 +1,8 @@
+Datasets of Tripadvisor reviews by UK residents of UK hotels and restaurants, together with the user's rating of the hotel.
+Datasets are split by:
+Hotel star level (2, 3, 4 or all[mixed]) or Restaurant;
+Reviewer gender (M=male-authored reviews; F=female-authored reviews; MF=equal numbers of male and female authored reviews for each rating level);
+Number of texts (1k, 2k, 4k, 8k, 16k, or all available)
+
+Each dataset contains equal numbers of reviews at each rating level.
+The reviews were selected at random from TripAdvisor.

@@ -2,7 +2,8 @@
 * Text regression: It is same like regression here the independent variable in text and the response variable in numeric or text
 ***
 
-# Problem statement: here we need to predict the rating variable which is dependent one with the help of independent variable which is text(tokens)
+# Problem statement: 
+* here we need to predict the rating variable which is dependent one with the help of independent variable which is text(tokens)
 ***
 
 # Data preprocessing:
